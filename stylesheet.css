@@ -1263,7 +1263,9 @@ audio {
 #play, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#wish_message,#story {
 	display: none;
 }
-
+#gift {
+color: white;
+}
 .cake-cover {
 	margin-top: 50px;
 }
